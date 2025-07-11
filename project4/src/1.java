@@ -1,5 +1,4 @@
-import java.util.Scanner;
-
+//22112353 김동근
 
 class Solution {
 

@@ -1,3 +1,5 @@
+//22112353 김동근
+
 import java.util.Arrays;
 import java.util.Scanner;
 
